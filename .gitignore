@@ -23,3 +23,5 @@ samples/1013d/*.bmp
 !samples/1013d/19.bmp
 !samples/1013d/20.bmp
 !samples/1013d/21.bmp
+
+dist_release/
