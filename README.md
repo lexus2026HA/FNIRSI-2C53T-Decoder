@@ -31,7 +31,7 @@ cursors, automatic measurements, FFT, export to CSV/XLSX/JSON/PNG/SVG/PDF. UI in
 
 ## Скачать и запустить
 
-1. Скачайте архив `FNIRSI-2C53T-Decoder-win64.zip` со страницы
+1. Скачайте архив `FNIRSI-2C53T-Decoder-<версия>-win64.zip` со страницы
    [Releases](https://github.com/lexus2026HA/FNIRSI-2C53T-Decoder/releases).
 2. Распакуйте **всю папку** и запустите `FNIRSI-2C53T-Decoder.exe` (рядом должна лежать папка `_internal`).
 3. Подключите осциллограф по USB: он определяется как съёмный диск и появляется в списке слева.
