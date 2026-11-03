@@ -1,0 +1,25 @@
+# Python / сборка
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+dist/
+build/work/
+
+# Личные и локальные папки
+Backups/
+Articles/
+
+# Образцы 2C53T из репозитория RafaelDiasCampos/FNIRSI-2C53T-Decoder: лицензия не указана,
+# поэтому здесь не публикуются (как их получить — в README, раздел «Тесты»)
+samples/*.bin
+samples/*.bmp
+
+# Служебные файлы 1013D и крупные снимки, не нужные тестам
+samples/1013d/*.sys
+samples/1013d/*.bmp
+!samples/1013d/1.bmp
+!samples/1013d/2.bmp
+!samples/1013d/19.bmp
+!samples/1013d/20.bmp
+!samples/1013d/21.bmp

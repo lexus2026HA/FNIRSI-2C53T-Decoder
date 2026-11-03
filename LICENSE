@@ -1,0 +1,33 @@
+FNIRSI-2C53T-Decoder — waveform viewer and analyser for FNIRSI 2C53T, 2C53P, 2C23T and 1013D
+Copyright (c) 2026 lexus2026HA (https://github.com/lexus2026HA)
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License (CC BY-NC 4.0).
+
+You are free to:
+  - Share — copy and redistribute the material in any medium or format;
+  - Adapt — remix, transform, and build upon the material;
+under the following terms:
+  - Attribution — you must give appropriate credit, provide a link to the
+    license, and indicate if changes were made;
+  - NonCommercial — you may not use the material for commercial purposes.
+
+Full license text (legal code):
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+Human-readable summary:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Third-party file-format research this program builds on (algorithms re-implemented,
+no code copied): RafaelDiasCampos/FNIRSI-2C53T-Decoder (2C53T BIN layout),
+roberttidey/FNISR1013DScope and wavoigt/FNIRSI-1013D-WAV-Viewer-in-Excel-VBA (1013D WAV layout).
+Third-party libraries keep their own licenses (PySide6/Qt — LGPL, pyqtgraph — MIT,
+NumPy/SciPy — BSD, matplotlib — PSF-based, openpyxl — MIT).
+
+---
+
+Эта работа распространяется на условиях лицензии Creative Commons
+«Атрибуция — Некоммерческое использование» 4.0 Международная (CC BY-NC 4.0).
+Разрешено копировать, распространять и изменять материал с указанием авторства.
+Коммерческое использование запрещено.
+Полный текст: https://creativecommons.org/licenses/by-nc/4.0/legalcode.ru
